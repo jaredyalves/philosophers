@@ -46,7 +46,7 @@ make
 ## Usage
 
 ```bash
-philo num_of_philos time_to_die time_to_eat time_to_sleep [times_must_eat]
+./philo num_of_philos time_to_die time_to_eat time_to_sleep [num_times_to_eat]
 ```
 
 * **num_of_philos**: The number of philosophers and also the number of forks.
