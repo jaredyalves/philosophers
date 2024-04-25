@@ -39,7 +39,8 @@ sudo xbps-install -Sy base-devel
 To build the mandatory part:
 
 ```bash
-cd project/philo/
+git clone https://github.com/jaredyalves/philosophers.git
+cd philosophers/project/philo/
 make
 ```
 
